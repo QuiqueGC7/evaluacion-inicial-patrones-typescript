@@ -1,1 +1,0 @@
-# evaluacion-inicial-patrones-typescript
